@@ -1,4 +1,3 @@
-####author = Giang Minh Nguyen####
 import tweepy
 from tweepy import OAuthHandler
 import json
