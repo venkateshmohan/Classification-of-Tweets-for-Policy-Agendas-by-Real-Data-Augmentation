@@ -1,6 +1,3 @@
-####author = Giang Minh Nguyen####
-
-
 import re
 from nltk.corpus import stopwords
 import string
